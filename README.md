@@ -12,7 +12,7 @@ No installation or external servers required.
 
 1. Fork and clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/cb-class-scheduler.git
+   git clone https://github.com/<your-username>/cb-class-scheduler.git
    cd cb-class-scheduler
 
     Open index.html in your web browser.
