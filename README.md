@@ -14,8 +14,9 @@ No installation or external servers required.
    ```bash
    git clone [https://github.com/](https://github.com/)<your-username>/cb-class-scheduler.git
    cd cb-class-scheduler
+   ```
 
-    Open index.html in your web browser.
+2. Open `index.html` in your web browser.
 
 Contributing
 
