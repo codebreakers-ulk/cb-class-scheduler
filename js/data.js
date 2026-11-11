@@ -48,5 +48,23 @@ const defaultClasses = [
     startTime: "15:00",
     endTime: "18:00",
     room: "Innovation Hub"
+  },
+  {
+    id: 6,
+    course: "Weekend Coding Bootcamp",
+    instructor: "Peer Leads",
+    day: "Saturday",
+    startTime: "10:00",
+    endTime: "13:00",
+    room: "Innovation Hub"
+  },
+  {
+    id: 7,
+    course: "Revision & Exam Prep Session",
+    instructor: "Dr. Mukamana",
+    day: "Sunday",
+    startTime: "14:00",
+    endTime: "16:00",
+    room: "Seminar Room 2"
   }
 ];
